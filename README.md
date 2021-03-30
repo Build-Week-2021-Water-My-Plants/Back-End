@@ -1,7 +1,7 @@
 #  Build Week - unit 4 - Water My Plants
 
 ## Base URL
-https://plants-serv.herokuapp.com/
+https://plants-serv.herokuapp.com
 
 ## API endpoints
 
