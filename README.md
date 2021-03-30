@@ -30,3 +30,20 @@ https://plants-serv.herokuapp.com
 | PUT    | /api/plants/:id | nickname, species, h2oFrequency, OR image | None         | Returns updated plant object.  |
 | DELETE | /api/plants/:id | None                | None         | Returns termination message if successfully deleted. |
 
+
+### Table Keys Used
+
+Users login/register
+  -userId
+  -username
+  -password
+  -phone
+  
+Plants 
+  -plantId
+  -nickname
+  -species
+  -h2oFrequency 
+  -image
+  -userId
+
