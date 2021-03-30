@@ -1,4 +1,4 @@
-#  Build Week - unit 4 - Anywhere Fitness
+#  Build Week - unit 4 - Water My Plants
 
 ## Base URL
 https://plants-serv.herokuapp.com/
