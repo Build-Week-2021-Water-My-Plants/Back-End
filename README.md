@@ -17,6 +17,7 @@ https://plants-serv.herokuapp.com
 
 | Auth | Endpoint              | Required            | Restrictions    | Notes                                       |
 | -----| --------------------- | --------------------| ----------------| ------------------------------------------- |
+| GET  | /api/users/:id        | None                | None            | Returns the specified user object.          |
 | GET  | /api/users/:id/plants | None                | None            | Returns array of users plants.              |
 | PUT  | /api/users/:id        | password or phone   | None            | Returns updated user object.                |
 
